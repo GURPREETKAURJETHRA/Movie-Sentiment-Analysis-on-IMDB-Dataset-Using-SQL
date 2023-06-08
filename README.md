@@ -20,3 +20,8 @@ You are a data analyst and an SQL expert. You must use SQL to analyze the given 
 2. The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
 3. Inspect each table given in the subsequent tabs and understand the features associated with each of them.
 4. Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
+
+### Acknowledgement:
+This Project Assignment was part of Curriculum during **EPGP-DataScience AI-ML (Deep Learning Spec) from IIIT-B.**
+
+***@All Rights Reserved*** [**Gurpreet Kaur Jethra**](https://github.com/GURPREETKAURJETHRA)
